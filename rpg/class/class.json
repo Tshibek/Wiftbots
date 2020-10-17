@@ -1,0 +1,46 @@
+{
+  "wojownik": {
+    "description": "dd",
+    "hp": "130",
+    "mp": "100",
+    "int": "10",
+    "wit": "15",
+    "str": "15",
+    "agil": "10",
+    "luck": "10",
+    "att_type": "wręcz"
+  },
+  "mag": {
+    "description": "dd",
+    "hp": "100",
+    "mp": "120",
+    "int": "15",
+    "wit": "10",
+    "str": "10",
+    "agil": "12",
+    "luck": "10",
+    "att_type": "magia"
+  },
+  "łucznik": {
+    "description": "dd",
+    "hp": "100",
+    "mp": "100",
+    "int": "10",
+    "wit": "10",
+    "str": "10",
+    "agil": "15",
+    "luck": "15",
+    "att_type": "dystans"
+  },
+  "paladyn": {
+    "description": "dd",
+    "hp": "120",
+    "mp": "110",
+    "int": "12",
+    "wit": "15",
+    "str": "12",
+    "agil": "10",
+    "luck": "10",
+    "att_type": "wręcz"
+  }
+}
